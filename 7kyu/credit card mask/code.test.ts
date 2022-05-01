@@ -1,7 +1,7 @@
 import { maskify } from './code';
 
 describe('Basic tests', () => {
-  it('', () => {
+  it('should return masked strings', () => {
     expect(maskify('4556364607935616')).toEqual('############5616');
     expect(maskify('64607935616')).toEqual('#######5616');
     expect(maskify('Skippy')).toEqual('##ippy');
