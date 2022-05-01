@@ -1,6 +1,6 @@
 # A rule of divisibility by 13
 
-[kata](https://www.codewars.com/kata/564057bc348c7200bd0000ff/typescript)
+- [kata](https://www.codewars.com/kata/564057bc348c7200bd0000ff/typescript)
 
 From Wikipedia:
 

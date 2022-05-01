@@ -1,6 +1,6 @@
 # Desguised sequences (II)
 
-[link to kata](https://www.codewars.com/kata/56fe17fcc25bf3e19a000292/train/typescript)
+- [kata](https://www.codewars.com/kata/56fe17fcc25bf3e19a000292/train/typescript)
 
 Let us define two sums `v(n, p)` and `u(n, p)`:
 

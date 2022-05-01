@@ -1,5 +1,7 @@
 # Row Weights
 
+- [kata](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+
 ## Scenario
 
 Several people are standing in a row divided into two teams.

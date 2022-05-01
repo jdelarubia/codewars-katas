@@ -1,5 +1,7 @@
 # Scaling Squared Strings
 
+- [kata](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)
+
 You are given a string of `n` lines, each substring being `n` characters long. For example:
 
 `s = "abcd\nefgh\nijkl\nmnop"`

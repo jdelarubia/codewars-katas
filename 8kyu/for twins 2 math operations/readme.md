@@ -1,6 +1,6 @@
 # 8kyu For Twins: 2.Math operations
 
-- [link to kata](https://www.codewars.com/kata/59c287b16bddd291c700009a/train/typescript)
+- [kata](https://www.codewars.com/kata/59c287b16bddd291c700009a/train/typescript)
 
 ## Task:
 
